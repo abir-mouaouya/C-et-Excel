@@ -1,0 +1,26 @@
+*********************************************** BONJOUR ********************************************************** 
+
+Ce fichier concerne le premier mini projet de la programmation orienté objet en C++.
+Ce mini projet a comme intérêt la manipulation les bases de données à base des fichiers EXCEL.
+
+
+*NB :
+Vous trouvez ci-joint : 
+   + Exécutable qui contient les 444 lignes de code en c++ , sous le nom de ABIRMOUAOUYA_Miniprojet1.cpp.
+   + Un rapport sous format Word et PDF sous le nom "ABIRMOUAOUYA_Miniprojet1.docx/.pdf», contient une présentation de projet et les fonctions utilisées, ainsi que les résultats d'un exemple d'exécution 
+   + Un fichier EXCEL sous le nom "miniprojet.xls" contient l'exemple manipulé dans le rapport 
+   + Une vidéo explicative sous le nom.
+
+
+
+
+
+Organisation    : SICoM - FST 
+Crée par 	: ABIR MOUAOUYA 
+Encadré par 	: HICHAM GHENNIOUI 
+COPYRIGHT 	: FST-USMBA 
+CONTACT 	: abir.mouaouya@usmba.ac.ma
+
+
+************************************************** MERCI ******************************************************************* 
+
